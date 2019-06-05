@@ -16,10 +16,10 @@
 | Abstractive Text Summarization by Incorporating Reader Comments|AAAI19|
 | DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization|AAAI19|
 | Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning|WWW19|
+| MASS: Masked Sequence to Sequence Pre-training for Language Generation|ICML19|
 | Pretraining-Based Natural Language Generation for Text Summarization||
 | Fine-tune BERT for Extractive Summarization||
 | Uniﬁed Language Model Pre-training for Natural Language Understanding and Generation||
-| MASS: Masked Sequence to Sequence Pre-training for Language Generation||
 | NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies||
 | Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization|ACL18|
 | Extractive Summarization with SWAP-NET: Sentences and Words from Alternating Pointer Networks|ACL18|
