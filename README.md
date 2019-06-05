@@ -29,6 +29,7 @@
 | A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss|ACL18|
 | Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting|ACL18|
 | Neural Document Summarization by Jointly Learning to Score and Select Sentences|ACL18|
+| Controllable Abstractive Summarization|ACL2018 Workshop|
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18|
 | Multi-Reward Reinforced Summarization with Saliency and Entailment|NAACL18|
 | Guiding Generation for Abstractive Text Summarization based on Key Information Guide Network|NAACL18|
@@ -43,7 +44,6 @@
 | Improving Neural Abstractive Document Summarization with Structural Regularization|EMNLP18|
 | Closed-Book Training to Improve Summarization Encoder Memory|EMNLP18|
 | Bottom-Up Abstractive Summarization|EMNLP18|
-| Controllable Abstractive Summarization||
 | Get To The Point: Summarization with Pointer-Generator Networks|ACL17|
 | Abstractive Document Summarization with a Graph-Based Attentional Neural Model|ACL17|
 | Extractive Summarization Using Multi-Task Learning with Document Classification|EMNLP17| 
