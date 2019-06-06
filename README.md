@@ -3,6 +3,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+| Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model | ACL19 |
 | Hierarchical Transformers for Multi-Document Summarization | ACL19 |
 |HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization|ACL19|
 | HIGHRES: Highlight-based Reference-less Evaluation of Summarization | ACL19 |
