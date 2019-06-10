@@ -16,6 +16,7 @@
 | MeanSum : A Neural Model for Unsupervised Multi-Document Abstractive Summarization|ICML19|
 | Abstractive Text Summarization by Incorporating Reader Comments|AAAI19|
 | DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization|AAAI19|
+| ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientiﬁc Paper Summarization with Citation Networks | AAAI19 |
 | Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning|WWW19|
 | MASS: Masked Sequence to Sequence Pre-training for Language Generation|ICML19|
 | Pretraining-Based Natural Language Generation for Text Summarization||
