@@ -8,6 +8,7 @@
 |HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization|ACL19|
 | HIGHRES: Highlight-based Reference-less Evaluation of Summarization | ACL19 |
 | TALKSUMM: A Dataset and Scalable Annotation Method for Scientiﬁc Paper Summarization Based on Conference Talks | ACL19 |
+| BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization  | ACL19 |
 | Guiding Extractive Summarization with Question-Answering Rewards|NAACL19|
 | A Robust Abstractive System for Cross-Lingual Summarization|NAACL19|
 | Jointly Extracting and Compressing Documents with Summary State Representations|NAACL19|
