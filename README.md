@@ -10,6 +10,8 @@
 | TALKSUMM: A Dataset and Scalable Annotation Method for Scientiﬁc Paper Summarization Based on Conference Talks | ACL19 |
 | BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization  | ACL19 |
 | Searching for Effective Neural Extractive Summarization: What Works and What's Next | ACL19 |
+|Generating Summaries with Topic Templates and Structured Convolutional Decoders|ACL19|
+|Self-Supervised Learning for Contextualized Extractive Summarization|ACL19|
 | Guiding Extractive Summarization with Question-Answering Rewards|NAACL19|
 | A Robust Abstractive System for Cross-Lingual Summarization|NAACL19|
 | Jointly Extracting and Compressing Documents with Summary State Representations|NAACL19|
