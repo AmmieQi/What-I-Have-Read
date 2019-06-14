@@ -3,6 +3,9 @@
 
 | Paper | Conference |
 | :---: | :---: |
+| Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking | ACL19 |
+|Self-Supervised Learning for Contextualized Extractive Summarization|ACL19|
+|BiSET: Bi-directional Selective Encoding with Template for Abstractive Summarization|ACL19|
 | Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model | ACL19 |
 | Hierarchical Transformers for Multi-Document Summarization | ACL19 |
 |HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization|ACL19|
