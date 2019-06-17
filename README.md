@@ -3,6 +3,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|Sentence Centrality Revisited for Unsupervised Summarization|ACL19|
 | Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking | ACL19 |
 |Self-Supervised Learning for Contextualized Extractive Summarization|ACL19|
 |BiSET: Bi-directional Selective Encoding with Template for Abstractive Summarization|ACL19|
@@ -15,6 +16,7 @@
 | Searching for Effective Neural Extractive Summarization: What Works and What's Next | ACL19 |
 |Generating Summaries with Topic Templates and Structured Convolutional Decoders|ACL19|
 |Self-Supervised Learning for Contextualized Extractive Summarization|ACL19|
+|Scoring Sentence Singletons and Pairs for Abstractive Summarization|ACL19|
 | Guiding Extractive Summarization with Question-Answering Rewards|NAACL19|
 | A Robust Abstractive System for Cross-Lingual Summarization|NAACL19|
 | Jointly Extracting and Compressing Documents with Summary State Representations|NAACL19|
