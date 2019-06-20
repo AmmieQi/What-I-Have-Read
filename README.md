@@ -3,6 +3,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+| Multimodal Abstractive Summarization for How2 Videos | ACL19 |
 |Sentence Centrality Revisited for Unsupervised Summarization|ACL19|
 | Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking | ACL19 |
 |Self-Supervised Learning for Contextualized Extractive Summarization|ACL19|
