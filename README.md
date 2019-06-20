@@ -96,6 +96,7 @@
 | Graph-based Neural Multi-Document Summarization|CoNLL17|
 | SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents|AAAI17|
 |Improving Multi-Document Summarization via Text Classiﬁcation|AAAI17|
+|Improving Multi-Document Summarization via Text Classiﬁcation|AAAI17|
 | Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond|CoNLL16|
 | A Neural Attention Model for Abstractive Sentence Summarization|EMNLP15|
 | Toward Abstractive Summarization Using Semantic Representations|NAACL15|
