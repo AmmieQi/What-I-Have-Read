@@ -13,8 +13,8 @@
 ### Presentation
 
 * [Meta Learning](slides/presentation/Meta%20Learning.pdf)
-* [Advanced pre-training language models a brief introduction]()
-* [Graph Neural Networks]()
+* [Advanced pre-training language models a brief introduction](slides/presentation/Advanced%20pre-training%20language%20models%20a%20brief%20introduction.pdf)
+* [Graph Neural Networks](slides/presentation/Graph%20Neural%20Networks.pdf)
 
 ### Paper slides
 * [ACL19-Dynamically Fused Graph Network for Multi-hop Reasoning]()
