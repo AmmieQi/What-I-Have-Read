@@ -121,7 +121,7 @@
 |Text Generation from Knowledge Graphs with Graph Transformers|NAACL19|
 |Structural Neural Encoders for AMR-to-text Generation|NAACL19|
 |Structured Neural Summarization|ICLR18|
-|Graph-based Neural Multi-Document Summarization|CoNLL 2017|
+|Graph-based Neural Multi-Document Summarization|CoNLL17|
 |Dynamically Fused Graph Network for Multi-hop Reasoning|ACL19|
 |Graph-to-Sequence Learning using Gated Graph Neural Networks|ACL18|
 |A Graph-to-Sequence Model for AMR-to-Text Generation|ACL18|
