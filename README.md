@@ -1,8 +1,12 @@
 # What I Have Read
 
 * [What I Have Read](#what-i-have-read)
+  * [Slides](#slides)
+     * [Presentation](#presentation)
+     * [Paper slides](#paper-slides)
   * [Summarization Papers](#summarization-papers)
   * [Meta Learning Papers](#meta-learning-papers)
+  * [Graph Neural Networks (GNN)](#graph-neural-networks-gnn)
 
   
 ## Slides
@@ -13,18 +17,19 @@
 * [Graph Neural Networks]()
 
 ### Paper slides
-* [Dynamically Fused Graph Network for Multi-hop Reasoning]()
-* [Linguistic Knowledge and Transferability of Contextual Representations]()
-* [Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination]()
-* [Text Generation from Knowledge Graphs with Graph Transformers]()
+* [ACL19-Dynamically Fused Graph Network for Multi-hop Reasoning]()
+* [NAACL19-Linguistic Knowledge and Transferability of Contextual Representations]()
+* [NAACL19-Text Generation from Knowledge Graphs with Graph Transformers]()
 * [The Curious Case of Neural Text Degeneration ]()
-* [Commonsense for Generative Multi-Hop Question Answering Tasks]()
-* [Commonsense Knowledge Aware Conversation Generation with Graph Attention]()
+* [EMNLP18-Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination]()
+* [EMNLP18-Commonsense for Generative Multi-Hop Question Answering Tasks]()
+* [IJCAI18-Commonsense Knowledge Aware Conversation Generation with Graph Attention]()
+* [AAAI18-Emotional Chatting Machine Emotional Conversation Generation with Internal and External Memory]()
+* [EMNLP18-Learning Neural Templates for Text Generation]()
+* [ACL18-Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders ]()
+* [ACL17-Semi-Supervised QA with Generative Domain-Adaptive Nets]()
 * [ACL17-Deep Multitask Learning for Semantic Dependency Parsing]()
-* [Emotional Chatting Machine Emotional Conversation Generation with Internal and External Memory]()
-* [Learning Neural Templates for Text Generation]()
-* [Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders ]()
-* [Semi-Supervised QA with Generative Domain-Adaptive Nets]()
+
   
 
 ## Summarization Papers
