@@ -89,6 +89,7 @@
 | Improving Neural Abstractive Document Summarization with Structural Regularization|EMNLP18|
 | Closed-Book Training to Improve Summarization Encoder Memory|EMNLP18|
 | Bottom-Up Abstractive Summarization|EMNLP18|
+|Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization|EMNLP18|
 |How2: A Large-scale Dataset for Multimodal Language Understanding|NIPS18|
 | Get To The Point: Summarization with Pointer-Generator Networks|ACL17|
 | Abstractive Document Summarization with a Graph-Based Attentional Neural Model|ACL17|
