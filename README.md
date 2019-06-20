@@ -12,7 +12,7 @@
 ## Slides
 ### Presentation
 
-* [Meta Learning]()
+* [Meta Learning](slides/presentation/Meta Learning.pdf)
 * [Advanced pre-training language models a brief introduction]()
 * [Graph Neural Networks]()
 
