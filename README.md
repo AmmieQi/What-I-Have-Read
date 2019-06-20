@@ -1,6 +1,8 @@
 # What I Have Read
 
-[TOC]
+* [What I Have Read](#what-i-have-read)
+  * [Summarization Papers](#summarization-papers)
+  * [Meta Learning Papers](#meta-learning-papers)
 
 ## Summarization Papers
 | Paper | Conference |
