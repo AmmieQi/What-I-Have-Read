@@ -4,6 +4,29 @@
   * [Summarization Papers](#summarization-papers)
   * [Meta Learning Papers](#meta-learning-papers)
 
+  
+## Slides
+### Presentation
+
+* [Meta Learning]()
+* [Advanced pre-training language models a brief introduction]()
+* [Graph Neural Networks]()
+
+### Paper slides
+* [Dynamically Fused Graph Network for Multi-hop Reasoning]()
+* [Linguistic Knowledge and Transferability of Contextual Representations]()
+* [Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination]()
+* [Text Generation from Knowledge Graphs with Graph Transformers]()
+* [The Curious Case of Neural Text Degeneration ]()
+* [Commonsense for Generative Multi-Hop Question Answering Tasks]()
+* [Commonsense Knowledge Aware Conversation Generation with Graph Attention]()
+* [ACL17-Deep Multitask Learning for Semantic Dependency Parsing]()
+* [Emotional Chatting Machine Emotional Conversation Generation with Internal and External Memory]()
+* [Learning Neural Templates for Text Generation]()
+* [Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders ]()
+* [Semi-Supervised QA with Generative Domain-Adaptive Nets]()
+  
+
 ## Summarization Papers
 | Paper | Conference |
 | :---: | :---: |
@@ -85,6 +108,20 @@
 |Natural Language to Structured Query Generation via Meta-Learning|NAACL18|
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|ICML17|
 |Optimization as a model for few-shot learning|ICLR17|
+
+## Graph Neural Networks (GNN)
+| Paper | Conference |
+| :---: | :---: |
+|Graph Neural Networks: A Review of Methods and Applications||
+|Text Generation from Knowledge Graphs with Graph Transformers|NAACL19|
+|Structural Neural Encoders for AMR-to-text Generation|NAACL19|
+|Structured Neural Summarization|ICLR18|
+|Graph-based Neural Multi-Document Summarization|CoNLL 2017|
+|Dynamically Fused Graph Network for Multi-hop Reasoning|ACL19|
+|Graph-to-Sequence Learning using Gated Graph Neural Networks|ACL18|
+|A Graph-to-Sequence Model for AMR-to-Text Generation|ACL18|
+|SQL-to-Text Generation with Graph-to-Sequence Model|EMNLP18|
+
 
 
 
