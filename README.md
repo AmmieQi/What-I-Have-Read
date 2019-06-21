@@ -34,6 +34,10 @@
 * [ACL17-Semi-Supervised QA with Generative Domain-Adaptive Nets](slides/paper-slides/Semi-Supervised%20QA%20with%20Generative%20Domain-Adaptive%20Nets.pdf)
 * [ACL17-Deep Multitask Learning for Semantic Dependency Parsing](slides/paper-slides/Deep%20Multitask%20Learning%20for%20Semantic%20Dependency%20Parsing.pdf)
 
+### Notes
+* [Boosting]()
+* [HMM]()
+* [The Maximum Entropy Model]()
   
 
 ## Summarization Papers
