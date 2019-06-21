@@ -8,6 +8,8 @@
   * [Meta Learning Papers](#meta-learning-papers)
   * [Graph Neural Networks (GNN)](#graph-neural-networks-gnn)
   * [Generative Adversarial Networks (GAN)](#generative-adversarial-networks-gan)
+  * [Knowledge Distillation](#knowledge-distillation)
+  * [Pre-train Based](#pre-train-based)
 
   
 ## Slides
@@ -138,9 +140,13 @@
 |RELGAN: RELATIONAL GENERATIVE ADVERSARIAL NETWORKS FOR TEXT GENERATION|RelGAN|ICLR19|
 
 
+## Knowledge Distillation
+| Paper | Conference |
+| :---: | :---: |
 
-
-
+## Pre-train Based
+| Paper | Conference |
+| :---: | :---: |
 
 
 
