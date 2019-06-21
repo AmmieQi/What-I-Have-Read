@@ -21,7 +21,7 @@
 * [ACL19-Dynamically Fused Graph Network for Multi-hop Reasoning](slides/paper-slides/Dynamically%20Fused%20Graph%20Network%20for%20Multi-hop%20Reasoning.pdf)
 * [NAACL19-Linguistic Knowledge and Transferability of Contextual Representations](slides/paper-slides/Linguistic%20Knowledge%20and%20Transferability%20of%20Contextual%20Representations.pdf)
 * [NAACL19-Text Generation from Knowledge Graphs with Graph Transformers](slides/paper-slides/Text%20Generation%20from%20Knowledge%20Graphs%20with%20Graph%20Transformers.pdf)
-* [The Curious Case of Neural Text Degeneration ](slides/paper-slides/The%20Curious%20Case%20of%20Neural%20Text%20Degeneration%20.pdf)
+* [The Curious Case of Neural Text Degeneration ](slides/paper-slides/The%20Curious%20Case%20of%20Neural%20Text%20Degeneration.pdf)
 * [EMNLP18-Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination](slides/paper-slides/Multi-Domain%20Neural%20Machine%20Translation%20with%20Word-Level%20Domain%20Context%20Discrimination.pdf)
 * [EMNLP18-Commonsense for Generative Multi-Hop Question Answering Tasks](slides/paper-slides/Commonsense%20for%20Generative%20Multi-Hop%20Question%20Answering%20Tasks.pdf)
 * [IJCAI18-Commonsense Knowledge Aware Conversation Generation with Graph Attention](slides/paper-slides/Commonsense%20Knowledge%20Aware%20Conversation%20Generation%20with%20Graph%20Attention.pdf)
