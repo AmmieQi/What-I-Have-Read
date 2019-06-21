@@ -145,12 +145,13 @@
 | :---: | :---: |
 |Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection|AAAI19|
 
+
 ## Pre-train Based
 | Paper | Conference |
 | :---: | :---: |
 |XLNet: Generalized Autoregressive Pretraining for Language Understanding||
 |Pre-Training with Whole Word Masking for Chinese BERT||
-|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|NAACL19|
+| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|NAACL19|
 |Improving Language Understanding by Generative Pre-Training||
 |Deep contextualized word representations|NAACL18|
 
