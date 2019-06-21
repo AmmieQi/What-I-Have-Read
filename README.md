@@ -4,6 +4,7 @@
   * [Slides](#slides)
      * [Presentation](#presentation)
      * [Paper slides](#paper-slides)
+     * [Notes](#notes)
   * [Summarization Papers](#summarization-papers)
   * [Meta Learning Papers](#meta-learning-papers)
   * [Graph Neural Networks (GNN)](#graph-neural-networks-gnn)
@@ -35,9 +36,9 @@
 * [ACL17-Deep Multitask Learning for Semantic Dependency Parsing](slides/paper-slides/Deep%20Multitask%20Learning%20for%20Semantic%20Dependency%20Parsing.pdf)
 
 ### Notes
-* [Boosting]()
-* [HMM]()
-* [The Maximum Entropy Model]()
+* [Boosting](slides/notes/Boosting.pdf)
+* [HMM](slides/notes/HMM.pdf)
+* [The Maximum Entropy Model](slides/notes/The%20Maximum%20Entropy%20Model.pdf)
   
 
 ## Summarization Papers
