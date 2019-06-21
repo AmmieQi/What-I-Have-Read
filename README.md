@@ -36,7 +36,7 @@
 * [ACL17-Deep Multitask Learning for Semantic Dependency Parsing](slides/paper-slides/Deep%20Multitask%20Learning%20for%20Semantic%20Dependency%20Parsing.pdf)
 
 ### Notes
-* [GAN in Text Generation]()
+* [GAN in Text Generation](slides/notes/GAN%20in%20Text%20Generation.pdf)
 * [Boosting](slides/notes/Boosting.pdf)
 * [HMM](slides/notes/HMM.pdf)
 * [The Maximum Entropy Model](slides/notes/The%20Maximum%20Entropy%20Model.pdf)
