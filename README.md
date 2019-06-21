@@ -143,8 +143,10 @@
 ## Knowledge Distillation
 | Paper | Conference |
 | :---: | :---: |
+|Distilling Task-Speciﬁc Knowledge from BERT into Simple Neural Networks||
 |Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection|AAAI19|
 |Cross-lingual Distillation for Text Classiﬁcation|ACL17|
+
 
 
 ## Pre-train Based
