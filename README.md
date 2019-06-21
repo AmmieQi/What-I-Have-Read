@@ -7,6 +7,7 @@
   * [Summarization Papers](#summarization-papers)
   * [Meta Learning Papers](#meta-learning-papers)
   * [Graph Neural Networks (GNN)](#graph-neural-networks-gnn)
+  * [Generative Adversarial Networks (GAN)](#generative-adversarial-networks-gan)
 
   
 ## Slides
@@ -130,8 +131,11 @@
 |SQL-to-Text Generation with Graph-to-Sequence Model|EMNLP18|
 
 
+## Generative Adversarial Networks (GAN)
 
-
+| Paper | Name | Conference |
+| :---: | :---: | :---: |
+|RELGAN: RELATIONAL GENERATIVE ADVERSARIAL NETWORKS FOR TEXT GENERATION|RelGAN|ICLR19|
 
 
 
