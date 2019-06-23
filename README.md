@@ -130,6 +130,7 @@
 ## Graph Neural Networks (GNN)
 | Paper | Conference |
 | :---: | :---: |
+|Matching Article Pairs with Graphical Decomposition and Convolutions|ACL19|
 |Dynamically Fused Graph Network for Multi-hop Reasoning|ACL19|
 |Cognitive Graph for Multi-Hop Reading Comprehension at Scale|ACL19|
 |Graph Neural Networks: A Review of Methods and Applications||
