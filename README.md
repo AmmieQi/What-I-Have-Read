@@ -12,6 +12,7 @@
   * [Knowledge Distillation](#knowledge-distillation)
   * [Pre-train Based](#pre-train-based)
   * [Multi Modal](#multi-modal)
+  * [Blogs](#blogs)
 
   
 ## Slides
@@ -183,6 +184,8 @@
 |How2:A Large-scale Dataset for Multimodal Language Understanding|NIPS18|
 
 
+## Blogs
+* [The Why, When, and How of Using Python Multi-threading and Multi-Processing](https://medium.com/towards-artificial-intelligence/the-why-when-and-how-of-using-python-multi-threading-and-multi-processing-afd1b8a8ecca)
 
 
 
