@@ -46,6 +46,7 @@
 ## Summarization Papers
 | Paper | Conference |
 | :---: | :---: |
+|Generating Summaries with Topic Templates and Structured Convolutional Decoders|ACL19|
 | Multimodal Abstractive Summarization for How2 Videos | ACL19 |
 |Sentence Centrality Revisited for Unsupervised Summarization|ACL19|
 | Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking | ACL19 |
