@@ -46,6 +46,7 @@
 ## Summarization Papers
 | Paper | Conference |
 | :---: | :---: |
+|Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization|ACL19|
 |Generating Summaries with Topic Templates and Structured Convolutional Decoders|ACL19|
 | Multimodal Abstractive Summarization for How2 Videos | ACL19 |
 |Sentence Centrality Revisited for Unsupervised Summarization|ACL19|
