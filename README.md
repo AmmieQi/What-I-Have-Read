@@ -124,6 +124,7 @@
 |Generating Summaries with Topic Templates and Structured Convolutional Decoders|ACL19|
 | Scoring Sentence Singletons and Pairs for Abstractive Summarization|ACL19|
 | Guiding Extractive Summarization with Question-Answering Rewards|NAACL19|
+|Single Document Summarization as Tree Induction|NAACL19|
 | Jointly Extracting and Compressing Documents with Summary State Representations|NAACL19|
 | Structured Neural Summarization|ICLR19|
 | DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization|AAAI19|
