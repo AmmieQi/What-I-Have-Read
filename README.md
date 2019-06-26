@@ -12,8 +12,8 @@
      * [Paper slides](#paper-slides)
      * [Notes](#notes)
   * [Summarization Papers](./Summarization.md)
-  * [Meta Learning Papers](#meta-learning-papers)
-  * [Graph Neural Networks (GNN)](#graph-neural-networks-gnn)
+  * [Meta Learning Papers](./Meta-Learning.md)
+  * [Graph Neural Networks (GNN)](./Graph-Neural-Networks.md)
   * [Generative Adversarial Networks (GAN)](#generative-adversarial-networks-gan)
   * [Knowledge Distillation](#knowledge-distillation)
   * [Pre-train Based](#pre-train-based-1)
@@ -50,31 +50,6 @@
   
 
 
-## Meta Learning Papers
-| Paper | Conference |
-| :---: | :---: |
-|Hierarchically Structured Meta-learning|ICML19|
-|Personalizing Dialogue Agents via Meta-Learning|ACL19|
-|Domain Adaptive Dialog Generation via Meta Learning|ACL19|
-|Meta-Learning for Low-Resource Neural Machine Translation|EMNLP18|
-|Natural Language to Structured Query Generation via Meta-Learning|NAACL18|
-|Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|ICML17|
-|Optimization as a model for few-shot learning|ICLR17|
-
-## Graph Neural Networks (GNN)
-| Paper | Conference |
-| :---: | :---: |
-|Matching Article Pairs with Graphical Decomposition and Convolutions|ACL19|
-|Dynamically Fused Graph Network for Multi-hop Reasoning|ACL19|
-| Cognitive Graph for Multi-Hop Reading Comprehension at Scale |ACL19|
-|Graph Neural Networks: A Review of Methods and Applications||
-|Text Generation from Knowledge Graphs with Graph Transformers|NAACL19|
-|Structural Neural Encoders for AMR-to-text Generation|NAACL19|
-|Structured Neural Summarization|ICLR18|
-|Graph-based Neural Multi-Document Summarization|CoNLL17|
-|Graph-to-Sequence Learning using Gated Graph Neural Networks|ACL18|
-|A Graph-to-Sequence Model for AMR-to-Text Generation|ACL18|
-|SQL-to-Text Generation with Graph-to-Sequence Model|EMNLP18|
 
 
 ## Generative Adversarial Networks (GAN)
