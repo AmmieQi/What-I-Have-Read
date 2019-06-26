@@ -14,10 +14,10 @@
   * [Summarization Papers](./Summarization.md)
   * [Meta Learning Papers](./Meta-Learning.md)
   * [Graph Neural Networks (GNN)](./Graph-Neural-Networks.md)
-  * [Generative Adversarial Networks (GAN)](#generative-adversarial-networks-gan)
-  * [Knowledge Distillation](#knowledge-distillation)
-  * [Pre-train Based](#pre-train-based-1)
-  * [Multi Modal](#multi-modal-1)
+  * [Generative Adversarial Networks (GAN)](./Generative-Adversarial-Networks.md)
+  * [Knowledge Distillation](./Knowledge-Distillation.md)
+  * [Pre-train Based](./Pre-train-Based.md)
+  * [Multi Modal](Multi-Modal.md)
   * [Blogs](#blogs)
 
   
@@ -47,52 +47,6 @@
 * [Boosting](slides/notes/Boosting.pdf)
 * [HMM](slides/notes/HMM.pdf)
 * [The Maximum Entropy Model](slides/notes/The%20Maximum%20Entropy%20Model.pdf)
-  
-
-
-
-
-## Generative Adversarial Networks (GAN)
-
-| Paper | Name | Conference |
-| :---: | :---: | :---: |
-|RELGAN: RELATIONAL GENERATIVE ADVERSARIAL NETWORKS FOR TEXT GENERATION|RelGAN|ICLR19|
-
-
-## Knowledge Distillation
-| Paper | Conference |
-| :---: | :---: |
-|Distilling Task-Speciﬁc Knowledge from BERT into Simple Neural Networks||
-|Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection|AAAI19|
-|On-Device Neural Language Model based Word Prediction|COLING18|
-|Cross-lingual Distillation for Text Classiﬁcation|ACL17|
-|Sequence-Level Knowledge Distillation|EMNLP16|
-
-
-
-
-## Pre-train Based
-| Paper | Conference |
-| :---: | :---: |
-|XLNet: Generalized Autoregressive Pretraining for Language Understanding||
-|Pre-Training with Whole Word Masking for Chinese BERT||
-|Unified Language Model Pre-training for Natural Language Understanding and Generation||
-|ERNIE: Enhanced Representation through Knowledge Integration||
-|ERNIE: Enhanced Language Representation with Informative Entities|ACL19|
-|MASS: Masked Sequence to Sequence Pre-training for Language Generation|ICML19|
-| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|NAACL19|
-|Linguistic Knowledge and Transferability of Contextual Representations|NAACL19|
-|Improving Language Understanding by Generative Pre-Training||
-|Deep contextualized word representations|NAACL18|
-
-
-## Multi Modal
-| Paper | Conference |
-| :---: | :---: |
-|VATEX:A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research||
-|Multimodal Abstractive Summarization for How2 Videos|ACL19|
-|How2:A Large-scale Dataset for Multimodal Language Understanding|NIPS18|
-
 
 ## Blogs
 * [The Why, When, and How of Using Python Multi-threading and Multi-Processing](https://medium.com/towards-artificial-intelligence/the-why-when-and-how-of-using-python-multi-threading-and-multi-processing-afd1b8a8ecca)
