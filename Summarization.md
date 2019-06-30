@@ -8,6 +8,7 @@
   * [Dataset](#dataset)
   * [Multi-modal](#multi-modal)
   * [Meeting](#meeting)
+  * [Concept-map-based](#concept-map-based)
   * [Related](#related)
 
 ## Multi-Document
@@ -21,6 +22,7 @@
 | Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization|EMNLP18|
 | Graph-based Neural Multi-Document Summarization|CoNLL17|
 | Improving Multi-Document Summarization via Text Classification | AAAI17|
+|Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|
 | 基于文档语义图的中文多文档摘要生成机制|(2015)|
 | Event-Centric Summary Generation| (2004) |
 
@@ -65,6 +67,7 @@ Generative Adversarial Networks|EMNLP18|
 | How2: A Large-scale Dataset for Multimodal Language Understanding|NIPS18|
 | Abstractive Text Summarization by Incorporating Reader Comments|AAAI19|
 | Generating Wikipedia By Summarizing Long Sequence | ICLR18 |
+|Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|
 
 ## Multi-modal
 | Paper | Conference |
@@ -76,6 +79,12 @@ Generative Adversarial Networks|EMNLP18|
 | Paper | Conference |
 | :---: | :---: |
 | Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning|WWW19|
+
+
+## Concept-map-based
+| Paper | Conference |
+| :---: | :---: |
+|Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|
 
 ## Related
 | Paper | Conference |
