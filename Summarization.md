@@ -84,7 +84,9 @@ Generative Adversarial Networks|EMNLP18|
 ## Concept-map-based
 | Paper | Conference |
 | :---: | :---: |
+|Fast Concept Mention Grouping for Concept Map–based Multi-Document Summarization|NAACL19|
 |Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|
+
 
 ## Related
 | Paper | Conference |
