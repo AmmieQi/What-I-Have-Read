@@ -118,6 +118,7 @@ Generative Adversarial Networks|EMNLP18|
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18|
 | Multi-Reward Reinforced Summarization with Saliency and Entailment|NAACL18|
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18 |
+|Relational Summarization for Corpus Analysis|NAACL18|
 | Guiding Generation for Abstractive Text Summarization based on Key Information Guide Network|NAACL18|
 | Ranking Sentences for Extractive Summarization with Reinforcement Learning|NAACL18|
 | A Deep Reinforced Model For Abstractive Summarization|ICLR18|
