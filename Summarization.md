@@ -23,6 +23,7 @@
 | Graph-based Neural Multi-Document Summarization|CoNLL17|
 | Improving Multi-Document Summarization via Text Classification | AAAI17|
 |Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|
+| An Unsupervised Multi-Document Summarization Framework Based on Neural Document Model | COLING16 |
 | 基于文档语义图的中文多文档摘要生成机制|(2015)|
 | Event-Centric Summary Generation| (2004) |
 
