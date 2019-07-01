@@ -33,6 +33,7 @@
 | Paper | Conference |
 | :---: | :---: |
 | A Robust Abstractive System for Cross-Lingual Summarization|NAACL19|
+| Zero-Shot Cross-Lingual Neural Headline Generation|IEEE/ACM TRANSACTIONS 18|
 
 ## Pre-train Based
 | Paper | Conference |
