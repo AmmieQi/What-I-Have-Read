@@ -79,6 +79,7 @@ Generative Adversarial Networks|EMNLP18|
 | Paper | Conference |
 | :---: | :---: |
 | Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning|WWW19|
+|Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization|ACL18|
 
 
 ## Concept-map-based
