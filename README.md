@@ -18,7 +18,8 @@
   * [Generative Adversarial Networks (GAN)](./Generative-Adversarial-Networks.md)
   * [Knowledge Distillation](./Knowledge-Distillation.md)
   * [Pre-train Based](./Pre-train-Based.md)
-  * [Multi Modal](Multi-Modal.md)
+  * [Multi Modal](./Multi-Modal.md)
+  * [Natural Language Generation](./Natural-Language-Generation.md)
   * [Blogs](#blogs)
 
   
