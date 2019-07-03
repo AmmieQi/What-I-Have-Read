@@ -2,11 +2,12 @@
 
 | Paper | Conference |
 | :---: | :---: |
-|Distilling Task-Specific Knowledge from BERT into Simple Neural Networks||
-|Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection|AAAI19|
-|On-Device Neural Language Model based Word Prediction|COLING18|
-| Zero-Shot Cross-Lingual Neural Headline Generation|IEEE/ACM TRANSACTIONS 18|
-|Cross-lingual Distillation for Text Classification|ACL17|
-|Sequence-Level Knowledge Distillation|EMNLP16|
+| Distilling Task-Specific Knowledge from BERT into Simple Neural Networks ||
+| Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection | AAAI19 |
+| On-Device Neural Language Model based Word Prediction | COLING18 |
+| Zero-Shot Cross-Lingual Neural Headline Generation | IEEE/ACM TRANSACTIONS 18 |
+| Cross-lingual Distillation for Text Classification | ACL17 |
+| Sequence-Level Knowledge Distillation | EMNLP16 |
+| Distilling the Knowledge in a Neural Network | NIPS14 Deep Learning Workshop|
 
 
