@@ -2,7 +2,8 @@
 
 | Paper | Conference |
 | :---: | :---: |
-| Distilling Task-Specific Knowledge from BERT into Simple Neural Networks ||
+| Distilling Task-Specific Knowledge from BERT into Simple Neural Networks | |
+| BAM! Born-Again Multi-Task Networks for Natural Language Understanding | |
 |Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding||
 | Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection | AAAI19 |
 | On-Device Neural Language Model based Word Prediction | COLING18 |
