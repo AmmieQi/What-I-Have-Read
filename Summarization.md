@@ -44,6 +44,7 @@
 | Fine-tune BERT for Extractive Summarization||
 | Unified Language Model Pre-training for Natural Language Understanding and Generation||
 |Self-Supervised Learning for Contextualized Extractive Summarization|ACL19|
+| Efficient Adaptation of Pretrained Transformers for Abstractive Summarization ||
 
 
 ## Unsupervised
