@@ -1,4 +1,4 @@
-# Non-Autoregressive
+# Deocde
 
 | Paper | Conference |
 | :---: | :---: |
