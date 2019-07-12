@@ -20,6 +20,7 @@
   * [Pre-train Based](./Pre-train-Based.md)
   * [Multi Modal](./Multi-Modal.md)
   * [Natural Language Generation](./Natural-Language-Generation.md)
+  * [Imitation Learning](./Imitation-Learning.md)
   * [Decode](./Decode.md)
   * [Textual Adversarial Attack and Defense](./Textual-Adversarial-Attack-and-Defense.md)
   * [Blogs](#blogs)
