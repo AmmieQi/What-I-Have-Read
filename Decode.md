@@ -4,6 +4,7 @@
 | :---: | :---: |
 | Levenshtein Transformer | |
 | Insertion-based Decoding with automatically Inferred Generation Order | |
+| KERMIT: Generative Insertion-Based Modeling for Sequences ||
 | Non-Monotonic Sequential Text Generation | ICML19 |
 | Insertion Transformer: Flexible Sequence Generation via Insertion Operations |ICML19 |
 | Sequence Generation: From Both Sides to the Middle |IJCAI19 |
