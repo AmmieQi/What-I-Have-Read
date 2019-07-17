@@ -29,6 +29,7 @@
 ## Slides
 ### Presentation
 
+* [Event Extraction](slides/presentation/Event%20Extraction.pdf)
 * [Meta Learning](slides/presentation/Meta%20Learning.pdf)
 * [Advanced pre-training language models a brief introduction](slides/presentation/Advanced%20pre-training%20language%20models%20a%20brief%20introduction.pdf)
 * [Graph Neural Networks](slides/presentation/Graph%20Neural%20Networks.pdf)
