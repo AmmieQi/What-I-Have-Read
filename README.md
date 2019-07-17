@@ -23,7 +23,6 @@
   * [Imitation Learning](./Imitation-Learning.md)
   * [Decode](./Decode.md)
   * [Textual Adversarial Attack and Defense](./Textual-Adversarial-Attack-and-Defense.md)
-  * [Blogs](#blogs)
 
   
 ## Slides
@@ -57,8 +56,7 @@
 * [The Maximum Entropy Model](slides/notes/The%20Maximum%20Entropy%20Model.pdf)
 * [Summarization](slides/notes/Brief-intro-to-summarization.pdf)
 
-## Blogs
-* [The Why, When, and How of Using Python Multi-threading and Multi-Processing](https://medium.com/towards-artificial-intelligence/the-why-when-and-how-of-using-python-multi-threading-and-multi-processing-afd1b8a8ecca)
+
 
 
 
