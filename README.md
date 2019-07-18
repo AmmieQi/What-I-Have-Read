@@ -8,6 +8,7 @@
 
 * [What I Have Read](#what-i-have-read)
   * [Slides](#slides)
+     * [Summarization](#Summarization)
      * [Presentation](#presentation)
      * [Paper slides](#paper-slides)
      * [Notes](#notes)
@@ -29,7 +30,8 @@
 
 ### Summarization
 * [Summarization](slides/notes/Brief-intro-to-summarization.pdf)
-* 
+* [文本摘要简述](slides/presentation/文本摘要简述.pdf)
+* [ACL19 Summarization](slides/presentation/ACL19%20Summarization.pdf)
 
 ### Presentation
 
