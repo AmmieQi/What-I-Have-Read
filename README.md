@@ -26,6 +26,11 @@
 
   
 ## Slides
+
+### Summarization
+* [Summarization](slides/notes/Brief-intro-to-summarization.pdf)
+* 
+
 ### Presentation
 
 * [Event Extraction](slides/presentation/Event%20Extraction.pdf)
@@ -54,7 +59,6 @@
 * [Boosting](slides/notes/Boosting.pdf)
 * [HMM](slides/notes/HMM.pdf)
 * [The Maximum Entropy Model](slides/notes/The%20Maximum%20Entropy%20Model.pdf)
-* [Summarization](slides/notes/Brief-intro-to-summarization.pdf)
 
 
 
