@@ -71,6 +71,7 @@
 | How2: A Large-scale Dataset for Multimodal Language Understanding|NIPS18|
 | Abstractive Text Summarization by Incorporating Reader Comments|AAAI19|
 | Generating Wikipedia By Summarizing Long Sequence | ICLR18 |
+|A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents|NAACL18|
 |Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|
 
 ## Multi-modal
