@@ -66,6 +66,7 @@
 | BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization  | ACL19 |
 | ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientiﬁc Paper Summarization with Citation Networks | AAAI19 |
 | Abstractive Summarization of Reddit Posts with Multi-level Memory Networks|NAACL19|
+| WikiHow: A Large Scale Text Summarization Dataset ||
 | Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization|EMNLP18|
 | How2: A Large-scale Dataset for Multimodal Language Understanding|NIPS18|
 | Abstractive Text Summarization by Incorporating Reader Comments|AAAI19|
