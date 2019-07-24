@@ -123,6 +123,7 @@
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18|
 | Multi-Reward Reinforced Summarization with Saliency and Entailment|NAACL18|
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18 |
+| A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents | NAACL18 |
 | Relational Summarization for Corpus Analysis | NAACL18 |
 | Deep Communicating Agents for Abstractive Summarization | NAACL18 |
 | Guiding Generation for Abstractive Text Summarization based on Key Information Guide Network|NAACL18|
