@@ -123,7 +123,8 @@
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18|
 | Multi-Reward Reinforced Summarization with Saliency and Entailment|NAACL18|
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18 |
-|Relational Summarization for Corpus Analysis|NAACL18|
+| Relational Summarization for Corpus Analysis | NAACL18 |
+| Deep Communicating Agents for Abstractive Summarization | NAACL18 |
 | Guiding Generation for Abstractive Text Summarization based on Key Information Guide Network|NAACL18|
 | Ranking Sentences for Extractive Summarization with Reinforcement Learning|NAACL18|
 | A Deep Reinforced Model For Abstractive Summarization|ICLR18|
@@ -135,8 +136,10 @@
 | Closed-Book Training to Improve Summarization Encoder Memory|EMNLP18|
 | Bottom-Up Abstractive Summarization|EMNLP18|
 | Get To The Point: Summarization with Pointer-Generator Networks|ACL17|
+|Selective Encoding for Abstractive Sentence Summarization|ACL17|
 | Abstractive Document Summarization with a Graph-Based Attentional Neural Model|ACL17|
 | Extractive Summarization Using Multi-Task Learning with Document Classification|EMNLP17| 
+| Deep Recurrent Generative Decoder for Abstractive Text Summarization | EMNL17 |
 | SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents|AAAI17|
 | Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond|CoNLL16|
 | A Neural Attention Model for Abstractive Sentence Summarization|EMNLP15|
