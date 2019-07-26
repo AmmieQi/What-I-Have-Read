@@ -107,6 +107,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|Inducing Document Structure for Aspect-based Summarization|ACL19|
 |Summary Refinement through Denoising | RANLP 2019|
 |Generating Summaries with Topic Templates and Structured Convolutional Decoders|ACL19|
 |Sentence Centrality Revisited for Unsupervised Summarization|ACL19|
