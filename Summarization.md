@@ -101,6 +101,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|Summary Refinement through Denoising | RANLP 2019|
 |Generating Summaries with Topic Templates and Structured Convolutional Decoders|ACL19|
 |Sentence Centrality Revisited for Unsupervised Summarization|ACL19|
 |BiSET: Bi-directional Selective Encoding with Template for Abstractive Summarization|ACL19|
