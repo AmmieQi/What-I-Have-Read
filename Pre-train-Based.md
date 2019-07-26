@@ -2,6 +2,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|SpanBERT: Improving Pre-training by Representing and Predicting Spans||
 |XLNet: Generalized Autoregressive Pretraining for Language Understanding||
 |Pre-Training with Whole Word Masking for Chinese BERT||
 |Unified Language Model Pre-training for Natural Language Understanding and Generation||
