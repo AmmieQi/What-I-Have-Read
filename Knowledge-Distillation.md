@@ -2,6 +2,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention|ACL19|
 | Distilling Task-Specific Knowledge from BERT into Simple Neural Networks | |
 | Multilingual Neural Machine Translation with Knowledge Distillation| ICLR19 |
 | BAM! Born-Again Multi-Task Networks for Natural Language Understanding |ACL19 |

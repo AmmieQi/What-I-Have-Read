@@ -32,8 +32,14 @@
 ## Cross-Lingual
 | Paper | Conference |
 | :---: | :---: |
+| Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention | ACL19 |
 | A Robust Abstractive System for Cross-Lingual Summarization|NAACL19|
 | Zero-Shot Cross-Lingual Neural Headline Generation|IEEE/ACM TRANSACTIONS 18|
+|Cross-language document summarization based on machine translation quality prediction|ACL10|
+|Using bilingual information for cross-language document summarization|ACL11|
+|Phrase-based Compressive Cross-Language Summarization|ACL15|
+|Abstractive Cross-Language Summarization via Translation Model Enhanced Predicate Argument Structure Fusing|IEEE/ACM Trans|
+|Cross-language document summarization via extraction and ranking of multiple summaries||
 
 ## Pre-train Based
 | Paper | Conference |
