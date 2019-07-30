@@ -14,6 +14,7 @@
      * [Notes](#notes)
   * [Summarization Papers](./Summarization.md)
   * [Unsupervised](./Unsupervised.md)
+  * [Cross-Lingual](./Cross-Lingual.md)
   * [Meta Learning Papers](./Meta-Learning.md)
   * [Graph Neural Networks (GNN)](./Graph-Neural-Networks.md)
   * [Generative Adversarial Networks (GAN)](./Generative-Adversarial-Networks.md)
