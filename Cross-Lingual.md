@@ -6,6 +6,7 @@
 | Tuning Multilingual Transformers for Named Entity Recognition on Slavic Languages ||
 | Shared-Private Bilingual Word Embeddings for Neural Machine Translation | ACL19 |
 | How multilingual is Multilingual BERT?|ACL19|
+| Multilingual Constituency Parsing with Self-Attention and Pre-Training | ACL19 |
 | From Bilingual to Multilingual Neural Machine Translation by Incremental Training | ACL19 |
 | Cross-Lingual Training for Automatic Question Generation | ACL19 |
 | Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders|ACL19|
